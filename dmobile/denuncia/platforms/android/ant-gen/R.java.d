@@ -1,0 +1,19 @@
+F:\workspace\DenunciaAqui\dmobile\denuncia\platforms\android\ant-gen\com\denuncia\proj\R.java \
+ : F:\workspace\DenunciaAqui\dmobile\denuncia\platforms\android\res\drawable\documenthelpicon.png \
+F:\workspace\DenunciaAqui\dmobile\denuncia\platforms\android\res\drawable\icon.png \
+F:\workspace\DenunciaAqui\dmobile\denuncia\platforms\android\res\drawable-hdpi\documenthelpicon.png \
+F:\workspace\DenunciaAqui\dmobile\denuncia\platforms\android\res\drawable-hdpi\icon.png \
+F:\workspace\DenunciaAqui\dmobile\denuncia\platforms\android\res\drawable-ldpi\documenthelpicon.png \
+F:\workspace\DenunciaAqui\dmobile\denuncia\platforms\android\res\drawable-ldpi\icon.png \
+F:\workspace\DenunciaAqui\dmobile\denuncia\platforms\android\res\drawable-mdpi\documenthelpicon.png \
+F:\workspace\DenunciaAqui\dmobile\denuncia\platforms\android\res\drawable-mdpi\icon.png \
+F:\workspace\DenunciaAqui\dmobile\denuncia\platforms\android\res\drawable-xhdpi\documenthelpicon.png \
+F:\workspace\DenunciaAqui\dmobile\denuncia\platforms\android\res\drawable-xhdpi\icon.png \
+F:\workspace\DenunciaAqui\dmobile\denuncia\platforms\android\res\values\strings.xml \
+F:\workspace\DenunciaAqui\dmobile\denuncia\platforms\android\res\xml\config.xml \
+F:\workspace\DenunciaAqui\dmobile\denuncia\platforms\android\ant-build\res\drawable\icon.png \
+F:\workspace\DenunciaAqui\dmobile\denuncia\platforms\android\ant-build\res\drawable-hdpi\icon.png \
+F:\workspace\DenunciaAqui\dmobile\denuncia\platforms\android\ant-build\res\drawable-ldpi\icon.png \
+F:\workspace\DenunciaAqui\dmobile\denuncia\platforms\android\ant-build\res\drawable-mdpi\icon.png \
+F:\workspace\DenunciaAqui\dmobile\denuncia\platforms\android\ant-build\res\drawable-xhdpi\icon.png \
+F:\workspace\DenunciaAqui\dmobile\denuncia\platforms\android\ant-build\AndroidManifest.xml \
